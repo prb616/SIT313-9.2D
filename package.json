@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "codemirror": "^5.65.15",
+    "react-codemirror2": "^7.3.0",
+    "react-syntax-highlighter": "^15.5.0"
+  }
+}
